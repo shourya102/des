@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 310">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #847387;
+            }
+
+            .cls-2 {
+            fill: #8e7c91;
+            }
+
+            .cls-3 {
+            font-family: Poppins-Bold, Poppins;
+            font-size: 20px;
+            font-weight: 700;
+            }
+
+            .cls-3, .cls-4 {
+            fill: #b38aba;
+            }
+
+            .cls-5 {
+            fill: #9d79a3;
+            }
+
+            .cls-6 {
+            fill: #9e78a5;
+            }
+
+            .cls-7 {
+            fill: #756678;
+            }
+
+            .cls-8 {
+            fill: #bb90c2;
+            }
+
+            .cls-9 {
+            fill: #735778;
+            }
+
+            .cls-10 {
+            fill: #785b7d;
+            }
+
+            .cls-11 {
+            fill: #9d89a1;
+            }
+
+            .cls-12 {
+            fill: #927198;
+            }
+
+            .cls-13 {
+            stroke: #89778c;
+            stroke-width: .5px;
+            }
+
+            .cls-13, .cls-14 {
+            fill: none;
+            stroke-miterlimit: 10;
+            }
+
+            .cls-15 {
+            fill: #b19ab5;
+            }
+
+            .cls-14 {
+            stroke: #937299;
+            stroke-width: .75px;
+            }
+
+            .cls-16 {
+            fill: #a982b0;
+            }
+        </style>
+    </defs>
+    <g id="Layer_2-2" data-name="Layer_2">
+        <g>
+            <rect class="cls-6" width="560" height="310" rx="30" ry="30"/>
+            <rect class="cls-12" x="22" y="54" width="374" height="228" rx="20" ry="20"/>
+            <text class="cls-3" transform="translate(21.6 37.82)">
+                <tspan x="0" y="0">Currently Playing</tspan>
+            </text>
+            <rect class="cls-5" x="42" y="65" width="28" height="28"/>
+            <path class="cls-8"
+                  d="M396,78v167c0,11.05-8.97,20-20.05,20H41.05c-11.08,0-20.05-8.95-20.05-20v-44.33l375-122.67Z"/>
+            <path class="cls-4"
+                  d="M396,90v167c0,11.05-8.97,20-20.05,20H41.05c-11.08,0-20.05-8.95-20.05-20v-44.33l375-122.67Z"/>
+            <rect class="cls-5" x="54" y="219" width="302" height="44" rx="22" ry="22"/>
+            <rect class="cls-12" x="177" y="102" width="2" height="1"/>
+            <rect class="cls-12" x="182" y="102" width="2" height="1"/>
+            <path class="cls-14" d="M182,107c0,1.11-1.34,2-3,2"/>
+            <circle class="cls-16" cx="175" cy="111" r="5"/>
+            <path class="cls-16"
+                  d="M172.95,116h4.11c3.28,0,5.95,2.66,5.95,5.95v10.05h-16v-10.05c0-3.28,2.66-5.95,5.95-5.95Z"/>
+            <rect class="cls-16" x="167" y="132" width="6" height="17"/>
+            <rect class="cls-16" x="177" y="132" width="6" height="14"/>
+            <rect class="cls-16" x="160" y="107" width="6" height="16"
+                  transform="translate(-28.46 171) rotate(-51.51)"/>
+            <rect class="cls-16" x="183.15" y="107.54" width="6.63" height="16.71"
+                  transform="translate(145.08 -99.71) rotate(47.27)"/>
+            <polygon class="cls-16" points="173 149 173 150.81 165.68 153.22 167 149 173 149"/>
+            <polygon class="cls-16" points="177 146 183 146 185.16 146.83 177 149.5 177 146"/>
+            <circle class="cls-4" cx="204.5" cy="241.5" r="10.5"/>
+            <polygon class="cls-5" points="207.78 241.06 202 244.4 202 237.73 207.78 241.06"/>
+            <rect class="cls-7" x="406" y="54" width="131" height="91" rx="20" ry="20"/>
+            <rect class="cls-7" x="406" y="155" width="131" height="91" rx="20" ry="20"/>
+            <rect class="cls-2" x="415" y="71" width="17" height="22"/>
+            <rect class="cls-7" x="418" y="74" width="11" height="16"/>
+            <rect class="cls-11" x="418" y="87" width="11" height="3"/>
+            <polygon class="cls-6" points="424.33 89 422.67 89 421 84 426 84 424.33 89"/>
+            <path class="cls-13" d="M423,84c0-2.21.89-4,2-4"/>
+            <circle class="cls-1" cx="425" cy="80" r="1"/>
+            <path class="cls-6"
+                  d="M464,82h18v14.06c0,3.28-2.66,5.94-5.94,5.94h-6.12c-3.28,0-5.94-2.66-5.94-5.94v-14.06h0Z"/>
+            <path class="cls-9" d="M464,83.57s1,2,5,2,4-2,4-2c0,0-.09,2,4.45,2s4.55-2,4.55-2v-6.57h-18v6.57Z"/>
+            <rect class="cls-9" x="466" y="87" width="5" height="1" transform="translate(-7.32 114.81) rotate(-13.86)"/>
+            <rect class="cls-9" x="474" y="87" width="5" height="1"
+                  transform="translate(918.15 286.63) rotate(-166.14)"/>
+            <ellipse class="cls-9" cx="468.5" cy="90" rx=".5" ry="1"/>
+            <ellipse class="cls-9" cx="476.5" cy="90" rx=".5" ry="1"/>
+            <path class="cls-9" d="M476,96c0,1.66-1.79,3-4,3"/>
+            <path class="cls-15" d="M470,102s1,3-3,5h11s-3.19-3-2.1-5"/>
+            <path class="cls-15"
+                  d="M491,145h-36l1-29.86c0-4.49,3.64-8.14,8.14-8.14h17.72c4.49,0,8.14,3.64,8.14,8.14l1,29.86Z"/>
+            <path class="cls-9"
+                  d="M481,179v4h-15v5c0,3-1.99,2.5-1.99,2.5,0,0-1.01-.5-1.01-2.5v-7s1-5,5-6,9,0,9,0h0c2.21,0,4,1.79,4,4Z"/>
+            <path class="cls-6"
+                  d="M481,183v7.59c0,3.16-1.98,5.86-4.77,6.92-.19.08-.38.14-.58.2-.66.19-1.35.29-2.06.29h-.18c-.94,0-1.84-.18-2.67-.5-.26-.09-.5-.21-.74-.33-2.38-1.24-4-3.72-4-6.58v-7.59h15Z"/>
+            <ellipse class="cls-9" cx="474.5" cy="193" rx="1.5" ry="1"/>
+            <rect class="cls-7" x="469" y="184" width="3" height="1"
+                  transform="translate(-28.17 102.39) rotate(-12.06)"/>
+            <rect class="cls-7" x="476" y="184" width="3" height="1" transform="translate(49.1 -95.71) rotate(12.06)"/>
+            <circle class="cls-7" cx="470.5" cy="186.5" r=".5"/>
+            <circle class="cls-7" cx="477.5" cy="186.5" r=".5"/>
+            <path class="cls-6"
+                  d="M480.15,204h-13s.78-.78,3.03-5.09c.22-.43.46-.9.71-1.41.83.32,1.73.5,2.67.5h.03c.71,0,1.4-.1,2.06-.29-.11.89.43,1.86,1.19,2.29h.16v.5c1.59,1.88,3.15,3.5,3.15,3.5Z"/>
+            <path class="cls-10"
+                  d="M476.84,200.49c-.1-.05-.96-.55-2.84-1.49-2-1-3.97-.09-3.97-.09.22-.43.46-.9.71-1.41.83.32,1.73.5,2.67.5h.18c.71,0,1.4-.1,2.06-.29-.11.89.43,1.86,1.19,2.78Z"/>
+            <path class="cls-10" d="M477,200h0s0,.01,0,0h0Z"/>
+            <path class="cls-15"
+                  d="M465.77,204h16.46c3.74,0,6.77,3.03,6.77,6.77v35.23h-30v-35.23c0-3.74,3.03-6.77,6.77-6.77Z"/>
+            <path class="cls-15" d="M454.81,210h4.19v20h-7v-17.19c0-1.55,1.26-2.81,2.81-2.81Z"/>
+            <path class="cls-6"
+                  d="M477,224c0,2.21-1.79,4-4,4-.17,0-.33-.01-.49-.03l-14.99,7.93c-1.37.73-3.07.21-3.8-1.16l-2.43-4.6,17.68-9.35.61,1.15c.69-1.16,1.96-1.94,3.42-1.94,2.21,0,4,1.79,4,4Z"/>
+            <path class="cls-10" d="M459,217v9.06l-3.82,2.02s2.82-2.09-.18-6.09"/>
+        </g>
+    </g>
+</svg>

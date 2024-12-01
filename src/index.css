@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+}
+
+:root {
+    /* primary colors */
+    --color-primary-1: #756678;
+    --color-primary-2: #846C89;
+    --color-primary-3: #927198;
+    --color-primary-4: #9E78A5;
+    --color-primary-5: #A981B1;
+    /* secondary colors */
+    --color-secondary-1: #A69096;
+    --color-secondary-2: #B398A0;
+    --color-secondary-3: #BFA1A9;
+    --color-secondary-4: #CAAAB3;
+    --color-secondary-5: #D4B5BD;
+    /* neutral colors */
+    --color-neutral-1: #1A001A;
+    --color-neutral-2: #EBE0EB;
+    --color-neutral-3: #FFFFFF;
+    /* font families */
+    --font-family-poppins: 'Poppins', sans-serif;
+    /* font sizes */
+    --font-size-hero-title: 8rem;
+    --font-size-h1: 6rem;
+    --font-size-h2: 5rem;
+    --font-size-h3: 4rem;
+    --font-size-h4: 3rem;
+    --font-size-body-xl: 3rem;
+    --font-size-body-lg: 2.5rem;
+    --font-size-body-md: 2rem;
+    --font-size-body-sm: 1.5rem;
+    --font-size-body-xs: 1rem;
+    /* border radius */
+    --border-radius-sm: 0.625rem; /* 10px / 16px */
+    --border-radius-md: 1.25rem; /* 20px / 16px */
+    --border-radius-lg: 1.875rem; /* 30px / 16px */
+    /* spacing */
+    --spacing-sm: 0.625rem; /* 10px / 16px */
+    --spacing-md: 1.25rem; /* 20px / 16px */
+    --spacing-lg: 1.875rem; /* 30px / 16px */
+    --spacing-xl: 2.5rem; /* 40px / 16px */
+    --spacing-max: 6.25rem; /* 100px / 16px */
+    /* images */
+    --image-black-silk-fabric-texture: url('src/assets/black-silk-fabric-texture-background.webp');
+    --image-colourful-background: url('src/assets/colourful-background.webp');
+    /* shadow */
+    --shadow-20x-10y: 20px 10px 20px rgba(26, 0, 26, 0.3);
+    --shadow-0x-10y-50: 0 10px 30px rgba(26, 0, 26, 0.6);
+    --shadow-0x-20y-20: 0 20px 20px rgba(26, 0, 26, 0.2);
+}
+
+/* Small screens (below 768px) */
+@media (max-width: 47.9375rem) {
+    :root {
+        /* font sizes */
+        --font-size-hero-title: 6rem;
+        --font-size-h1: 4.5rem;
+        --font-size-h2: 3.75rem;
+        --font-size-h3: 3rem;
+        --font-size-h4: 2.25rem;
+        --font-size-body-xl: 2.5rem;
+        --font-size-body-lg: 2rem;
+        --font-size-body-md: 1.5rem;
+        --font-size-body-sm: 1.25rem;
+        --font-size-body-xs: 0.875rem;
+        /* border radius */
+        --border-radius-sm: 0.5rem;
+        --border-radius-md: 1rem;
+        --border-radius-lg: 1.5rem;
+        /* spacing */
+        --spacing-sm: 0.5rem;
+        --spacing-md: 1rem;
+        --spacing-lg: 1.5rem;
+        --spacing-xl: 2rem;
+        --spacing-max: 5rem;
+    }
+}
+
+/* Medium screens (768px to 1023px) */
+@media (min-width: 48rem) and (max-width: 63.9375rem) {
+    :root {
+        /* font sizes */
+        --font-size-hero-title: 7rem;
+        --font-size-h1: 5.25rem;
+        --font-size-h2: 4.25rem;
+        --font-size-h3: 3.5rem;
+        --font-size-h4: 2.75rem;
+        --font-size-body-xl: 2.75rem;
+        --font-size-body-lg: 2.25rem;
+        --font-size-body-md: 1.75rem;
+        --font-size-body-sm: 1.5rem;
+        --font-size-body-xs: 1rem;
+        /* border radius */
+        --border-radius-sm: 0.5625rem;
+        --border-radius-md: 1.125rem;
+        --border-radius-lg: 1.6875rem;
+        /* spacing */
+        --spacing-sm: 0.5625rem;
+        --spacing-md: 1.125rem;
+        --spacing-lg: 1.6875rem;
+        --spacing-xl: 2.25rem;
+        --spacing-max: 5.625rem;
+    }
+}
+
+/* Large screens (1024px and above) */
+@media (min-width: 64rem) {
+    :root {
+        /* font sizes */
+        --font-size-hero-title: 8rem;
+        --font-size-h1: 6rem;
+        --font-size-h2: 5rem;
+        --font-size-h3: 4rem;
+        --font-size-h4: 3rem;
+        --font-size-body-xl: 3rem;
+        --font-size-body-lg: 2.5rem;
+        --font-size-body-md: 2rem;
+        --font-size-body-sm: 1.5rem;
+        --font-size-body-xs: 1rem;
+        /* border radius */
+        --border-radius-sm: 0.625rem;
+        --border-radius-md: 1.25rem;
+        --border-radius-lg: 1.875rem;
+        /* spacing */
+        --spacing-sm: 0.625rem;
+        --spacing-md: 1.25rem;
+        --spacing-lg: 1.875rem;
+        --spacing-xl: 2.5rem;
+        --spacing-max: 6.25rem;
+    }
+}
